@@ -1,0 +1,54 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    driverClassName: com.mysql.jdbc.Driver
+    druid:
+      case:
+        #       url: jdbc:mysql://rm-2ze886b0r63l4127w605.mysql.rds.aliyuncs.com:3306/autotest?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&rewriteBatchedStatements=true&socketTimeout=30000&connectTimeout=3000&allowMultiQueries=true
+        #       username: ceshi
+        #       password: 36iUjsDBaQjs3i7T
+        url: jdbc:mysql://47.103.21.189:3306/eurooo_com?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true
+        username: root
+        password: Root3306!@#
+
+
+      horai:
+        url: jdbc:mysql://119.27.179.23:3306/study-test?allowMultiQueries=true&useUnicode=trueuseSSL=true&&characterEncoding=UTF-8
+        username: root
+        password: aa4024003
+
+      platform:
+        url: jdbc:mysql://10.57.17.157:3306/octopus_platform2?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
+        username: hui.ge
+        password: gehui123
+
+      task:
+        url: jdbc:mysql://10.57.17.157:3306/octopus_task?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
+        username: hui.ge
+        password: gehui123
+
+      initial-size: 10
+      max-active: 100
+      min-idle: 10
+      max-wait: 60000
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      #validation-query: SELECT 1 FROM DUAL
+      test-while-idle: true
+      test-on-borrow: false
+      test-on-return: false
+      stat-view-servlet:
+        enabled: true
+        url-pattern: /druid/*
+        #login-username: admin
+        #login-password: admin
+      filter:
+        stat:
+          log-slow-sql: true
+          slow-sql-millis: 1000
+          merge-sql: false
+        wall:
+          config:
+            multi-statement-allow: true

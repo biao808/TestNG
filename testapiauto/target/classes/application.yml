@@ -1,0 +1,90 @@
+# Tomcat
+server:
+  tomcat:
+    uri-encoding: UTF-8
+    max-threads: 1000
+    min-spare-threads: 30
+  port: 8081
+  connection-timeout: 5000ms
+#  servlet:
+#    context-path: /dianQmService
+
+
+spring:
+  # ���� dev|test|prod
+  profiles:
+    active: dev
+  # jacksonʱ���ʽ��
+  jackson:
+    time-zone: GMT+8
+    date-format: yyyy-MM-dd HH:mm:ss
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+      enabled: true
+  redis:
+    open: false  # �Ƿ���redis����  true����   false�ر�
+    database: 0
+    host: localhost
+    port: 6379
+    password:    # ���루Ĭ��Ϊ�գ�
+    timeout: 6000ms  # ���ӳ�ʱʱ�������룩
+    jedis:
+      pool:
+        max-active: 1000  # ���ӳ������������ʹ�ø�ֵ��ʾû�����ƣ�
+        max-wait: -1ms      # ���ӳ���������ȴ�ʱ�䣨ʹ�ø�ֵ��ʾû�����ƣ�
+        max-idle: 10      # ���ӳ��е�����������
+        min-idle: 5       # ���ӳ��е���С��������
+  mvc:
+    throw-exception-if-no-handler-found: true
+    static-path-pattern: /static/**
+  resources:
+    add-mappings: false
+
+#mybatis
+mybatis-plus:
+  mapper-locations: classpath:mapper/**/*.xml
+  #ʵ��ɨ�裬���package�ö��Ż��߷ֺŷָ�
+  typeAliasesPackage: cn.dian.qm.modules.*.entity
+  global-config:
+    #��������  0:"���ݿ�ID����", 1:"�û�����ID",2:"ȫ��ΨһID (��������ΨһID)", 3:"ȫ��ΨһID UUID";
+    id-type: 0
+    #�ֶβ��� 0:"�����ж�",1:"�� NULL �ж�"),2:"�ǿ��ж�"
+    field-strategy: 2
+    #�շ��»���ת��
+    db-column-underline: true
+    #ˢ��mapper ��������
+    refresh-mapper: true
+    #���ݿ��д�»���ת��
+    #capital-mode: true
+    #���нӿ�ʵ��������
+    #key-generator: com.baomidou.springboot.xxx
+    #�߼�ɾ������
+    logic-delete-value: -1
+    logic-not-delete-value: 0
+    #�Զ��������Խӿ�ʵ��
+    #meta-object-handler: com.baomidou.springboot.xxx
+    #�Զ���SQLע����
+    sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
+  configuration:
+    map-underscore-to-camel-case: true
+    cache-enabled: false
+    call-setters-on-nulls: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+renren:
+  redis:
+    open: false
+  shiro:
+    redis: false
+  # APPģ�飬��ͨ��jwt��֤�ģ����Ҫʹ��APPģ�飬����Ҫ�޸ġ�������Կ��
+  jwt:
+    # ������Կ
+    secret: f4e2e52034348f86b67cde581c0f9eb5[www.renren.io]
+    # token��Чʱ����7�죬��λ��
+    expire: 604800
+    header: token
+
+
