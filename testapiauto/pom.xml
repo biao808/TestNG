@@ -25,6 +25,20 @@
         <okhttp.version>3.14.2</okhttp.version>
         <fastjson.version>1.2.47</fastjson.version>
         <log4j.version>1.2.17</log4j.version>
+        <allure-testng.version>2.0-BETA18</allure-testng.version>
+        <javaparser-core.version>>3.6.27</javaparser-core.version>
+        <testng.version>6.10</testng.version>
+        <zkclient.version>0.1</zkclient.version>
+        <aspectj.version>1.8.10</aspectj.version> <!--AspectJ是一个基于Java语言的AOP框架-->
+        <allure.version>2.9.0</allure.version>
+        <!-- 解决mvn编译乱码问题-->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <guice.version>4.0</guice.version>
+        <allure-testng-adaptor.version>1.3.6</allure-testng-adaptor.version>
+        <mybatis.version>3.4.6</mybatis.version>
+        <javaparser-core.version>3.6.27</javaparser-core.version>
+        <mybatis-spring-boot-starter.version>2.0.1</mybatis-spring-boot-starter.version>
+        <lombok.version>1.18.4</lombok.version>
     </properties>
 
     <dependencies>
@@ -67,25 +81,26 @@
         <dependency>
             <groupId>com.github.javaparser</groupId>
             <artifactId>javaparser-core</artifactId>
-            <version>3.6.27</version>
+            <version>${javaparser-core.version}</version>
         </dependency>
 
         <dependency>
-            <groupId>com.squareup.okhttp3</groupId>
-            <artifactId>okhttp</artifactId>
-            <version>3.14.2</version>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>${mybatis-spring-boot-starter.version}</version>
         </dependency>
+
 
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>6.10</version>
+            <version>${testng.version}</version>
         </dependency>
 
         <dependency>
             <groupId>com.github.sgroschupf</groupId>
             <artifactId>zkclient</artifactId>
-            <version>0.1</version>
+            <version>${zkclient.version}</version>
         </dependency>
 
         <dependency>
@@ -93,7 +108,51 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+
+        <!--allure的testng插件-->
+        <dependency>
+            <groupId>ru.yandex.qatools.allure</groupId>
+            <artifactId>allure-testng-adaptor</artifactId>
+            <version>${allure-testng-adaptor.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.testng</groupId>
+                    <artifactId>testng</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <!-- 依赖Guice -->
+        <dependency>
+            <groupId>com.google.inject</groupId>
+            <artifactId>guice</artifactId>
+            <version>${guice.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.qameta.allure</groupId>
+            <artifactId>allure-testng</artifactId>
+            <version>${allure-testng.version}</version>
+            <scope>test</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mybatis</groupId>
+            <artifactId>mybatis</artifactId>
+            <version>${mybatis.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+
     </dependencies>
+
 
     <build>
         <plugins>
@@ -101,7 +160,33 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.20</version>
+                <configuration>
+                    <argLine>
+                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+                    </argLine>
+                    <!--生成allure-result的目录-->
+                    <systemProperties>
+                        <property>
+                            <name>allure.results.directory</name>
+                            <value>./target/allure-results</value>
+                        </property>
+                    </systemProperties>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.aspectj</groupId>
+                        <artifactId>aspectjweaver</artifactId>
+                        <version>1.9.2</version>
+                    </dependency>
+                </dependencies>
+            </plugin>
         </plugins>
     </build>
+
+
 
 </project>

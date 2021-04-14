@@ -7,25 +7,25 @@ spring:
         #       url: jdbc:mysql://rm-2ze886b0r63l4127w605.mysql.rds.aliyuncs.com:3306/autotest?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&rewriteBatchedStatements=true&socketTimeout=30000&connectTimeout=3000&allowMultiQueries=true
         #       username: ceshi
         #       password: 36iUjsDBaQjs3i7T
-        url: jdbc:mysql://47.103.21.189:3306/eurooo_com?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true
+        url: jdbc:mysql://121.40.189.232:3306/test?useSSL=false&serverTimezone=Asia/Shanghai&characterEncoding=utf-8&autoReconnect=true
         username: root
-        password: Root3306!@#
+        password: biao8888
 
 
-      horai:
-        url: jdbc:mysql://119.27.179.23:3306/study-test?allowMultiQueries=true&useUnicode=trueuseSSL=true&&characterEncoding=UTF-8
-        username: root
-        password: aa4024003
-
-      platform:
-        url: jdbc:mysql://10.57.17.157:3306/octopus_platform2?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
-        username: hui.ge
-        password: gehui123
-
-      task:
-        url: jdbc:mysql://10.57.17.157:3306/octopus_task?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
-        username: hui.ge
-        password: gehui123
+#      horai:
+#        url: jdbc:mysql://119.27.179.23:3306/study-test?allowMultiQueries=true&useUnicode=trueuseSSL=true&&characterEncoding=UTF-8
+#        username: root
+#        password: aa4024003
+#
+#      platform:
+#        url: jdbc:mysql://10.57.17.157:3306/octopus_platform2?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
+#        username: hui.ge
+#        password: gehui123
+#
+#      task:
+#        url: jdbc:mysql://10.57.17.157:3306/octopus_task?allowMultiQueries=true&useUnicode=true&useSSL=true&characterEncoding=UTF-8
+#        username: hui.ge
+#        password: gehui123
 
       initial-size: 10
       max-active: 100

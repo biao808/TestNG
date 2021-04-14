@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="331a0236-ef58-47f8-87b7-3306d9f8b95b" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,22 +10,34 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
+        <option value="Kotlin File" />
         <option value="FxmlFile" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1puaKx0VuVRE6Cd9sohoUfRJGe3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -34,28 +45,17 @@
       <recent name="com.example.testapiauto" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\testNG\testapiauto\src\test\resources" />
       <recent name="D:\IDEA\testNG\testapiauto\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="TestNG.case1">
-    <configuration name="case1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
+    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.modules.HttpClient" />
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
+          <option name="PATTERN" value="com.example.testapiauto.modules.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="logDataController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="logs.controller.logDataController" />
+    <configuration name="all" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.all" />
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="logs.controller.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,7 +107,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1.case_one" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="case1.case_two (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
@@ -117,7 +117,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase" />
       <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
-      <option name="METHOD_NAME" value="case_one" />
+      <option name="METHOD_NAME" value="case_two" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="case1.case_two" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testapiauto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
+      <option name="METHOD_NAME" value="case_two" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,9 +146,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.case1" />
-        <item itemvalue="TestNG.case1.case_one" />
-        <item itemvalue="Application.logDataController" />
-        <item itemvalue="Application.case1" />
+        <item itemvalue="TestNG.case1.case_two" />
+        <item itemvalue="Application.all" />
+        <item itemvalue="TestNG.case1.case_two (1)" />
+        <item itemvalue="Application.HttpClient" />
       </list>
     </recent_temporary>
   </component>
@@ -146,11 +165,41 @@
       <updated>1616035368110</updated>
       <workItem from="1616035370647" duration="27717000" />
       <workItem from="1616378840083" duration="14466000" />
-      <workItem from="1616740029035" duration="3526000" />
+      <workItem from="1616740029035" duration="4160000" />
+      <workItem from="1616982624420" duration="30435000" />
+      <workItem from="1617687935765" duration="6736000" />
+      <workItem from="1618379831103" duration="1197000" />
+      <workItem from="1618381069734" duration="175000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1618380901555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618380901555" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1618381092349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618381092349" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/testapiauto/testCase/case1.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/testapiauto/testCase/case1.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

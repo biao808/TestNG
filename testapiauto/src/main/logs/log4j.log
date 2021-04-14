@@ -1,2 +1,8 @@
-assert_response0
 assert_response:0
+assert_response:0
+断言结果断言失败：
+jsonpath：$.code
+实际结果：0
+预期结果：1
+
+

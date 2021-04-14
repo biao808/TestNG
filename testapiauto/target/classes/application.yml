@@ -6,15 +6,15 @@ server:
     min-spare-threads: 30
   port: 8081
   connection-timeout: 5000ms
-#  servlet:
-#    context-path: /dianQmService
+  servlet:
+    context-path: /testapiauto
 
 
 spring:
-  # ï¿½ï¿½ï¿½ï¿½ dev|test|prod
+  # »·¾³ dev|test|prod
   profiles:
     active: dev
-  # jacksonÊ±ï¿½ï¿½ï¿½Ê½ï¿½ï¿½
+  # jacksonÊ±¼ä¸ñÊ½»¯
   jackson:
     time-zone: GMT+8
     date-format: yyyy-MM-dd HH:mm:ss
@@ -24,18 +24,18 @@ spring:
       max-request-size: 100MB
       enabled: true
   redis:
-    open: false  # ï¿½Ç·ï¿½ï¿½ï¿½redisï¿½ï¿½ï¿½ï¿½  trueï¿½ï¿½ï¿½ï¿½   falseï¿½Ø±ï¿½
+    open: false  # ÊÇ·ñ¿ªÆôredis»º´æ  true¿ªÆô   false¹Ø±Õ
     database: 0
     host: localhost
     port: 6379
-    password:    # ï¿½ï¿½ï¿½ë£¨Ä¬ï¿½ï¿½Îªï¿½Õ£ï¿½
-    timeout: 6000ms  # ï¿½ï¿½ï¿½Ó³ï¿½Ê±Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë£©
+    password:    # ÃÜÂë£¨Ä¬ÈÏÎª¿Õ£©
+    timeout: 6000ms  # Á¬½Ó³¬Ê±Ê±³¤£¨ºÁÃë£©
     jedis:
       pool:
-        max-active: 1000  # ï¿½ï¿½ï¿½Ó³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½Ã¸ï¿½Öµï¿½ï¿½Ê¾Ã»ï¿½ï¿½ï¿½ï¿½ï¿½Æ£ï¿½
-        max-wait: -1ms      # ï¿½ï¿½ï¿½Ó³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È´ï¿½Ê±ï¿½ä£¨Ê¹ï¿½Ã¸ï¿½Öµï¿½ï¿½Ê¾Ã»ï¿½ï¿½ï¿½ï¿½ï¿½Æ£ï¿½
-        max-idle: 10      # ï¿½ï¿½ï¿½Ó³ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
-        min-idle: 5       # ï¿½ï¿½ï¿½Ó³ï¿½ï¿½Ðµï¿½ï¿½ï¿½Ð¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+        max-active: 1000  # Á¬½Ó³Ø×î´óÁ¬½ÓÊý£¨Ê¹ÓÃ¸ºÖµ±íÊ¾Ã»ÓÐÏÞÖÆ£©
+        max-wait: -1ms      # Á¬½Ó³Ø×î´ó×èÈûµÈ´ýÊ±¼ä£¨Ê¹ÓÃ¸ºÖµ±íÊ¾Ã»ÓÐÏÞÖÆ£©
+        max-idle: 10      # Á¬½Ó³ØÖÐµÄ×î´ó¿ÕÏÐÁ¬½Ó
+        min-idle: 5       # Á¬½Ó³ØÖÐµÄ×îÐ¡¿ÕÏÐÁ¬½Ó
   mvc:
     throw-exception-if-no-handler-found: true
     static-path-pattern: /static/**
@@ -45,27 +45,27 @@ spring:
 #mybatis
 mybatis-plus:
   mapper-locations: classpath:mapper/**/*.xml
-  #Êµï¿½ï¿½É¨ï¿½è£¬ï¿½ï¿½ï¿½packageï¿½Ã¶ï¿½ï¿½Å»ï¿½ï¿½ß·ÖºÅ·Ö¸ï¿½
-  typeAliasesPackage: cn.dian.qm.modules.*.entity
+  #ÊµÌåÉ¨Ãè£¬¶à¸öpackageÓÃ¶ººÅ»òÕß·ÖºÅ·Ö¸ô
+  typeAliasesPackage: com.example.testapiauto.*.entity
   global-config:
-    #ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  0:"ï¿½ï¿½ï¿½Ý¿ï¿½IDï¿½ï¿½ï¿½ï¿½", 1:"ï¿½Ã»ï¿½ï¿½ï¿½ï¿½ï¿½ID",2:"È«ï¿½ï¿½Î¨Ò»ID (ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î¨Ò»ID)", 3:"È«ï¿½ï¿½Î¨Ò»ID UUID";
+    #Ö÷¼üÀàÐÍ  0:"Êý¾Ý¿âID×ÔÔö", 1:"ÓÃ»§ÊäÈëID",2:"È«¾ÖÎ¨Ò»ID (Êý×ÖÀàÐÍÎ¨Ò»ID)", 3:"È«¾ÖÎ¨Ò»ID UUID";
     id-type: 0
-    #ï¿½Ö¶Î²ï¿½ï¿½ï¿½ 0:"ï¿½ï¿½ï¿½ï¿½ï¿½Ð¶ï¿½",1:"ï¿½ï¿½ NULL ï¿½Ð¶ï¿½"),2:"ï¿½Ç¿ï¿½ï¿½Ð¶ï¿½"
+    #×Ö¶Î²ßÂÔ 0:"ºöÂÔÅÐ¶Ï",1:"·Ç NULL ÅÐ¶Ï"),2:"·Ç¿ÕÅÐ¶Ï"
     field-strategy: 2
-    #ï¿½Õ·ï¿½ï¿½Â»ï¿½ï¿½ï¿½×ªï¿½ï¿½
+    #ÍÕ·åÏÂ»®Ïß×ª»»
     db-column-underline: true
-    #Ë¢ï¿½ï¿½mapper ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    #Ë¢ÐÂmapper µ÷ÊÔÉñÆ÷
     refresh-mapper: true
-    #ï¿½ï¿½ï¿½Ý¿ï¿½ï¿½Ð´ï¿½Â»ï¿½ï¿½ï¿½×ªï¿½ï¿½
+    #Êý¾Ý¿â´óÐ´ÏÂ»®Ïß×ª»»
     #capital-mode: true
-    #ï¿½ï¿½ï¿½Ð½Ó¿ï¿½Êµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    #ÐòÁÐ½Ó¿ÚÊµÏÖÀàÅäÖÃ
     #key-generator: com.baomidou.springboot.xxx
-    #ï¿½ß¼ï¿½É¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+    #Âß¼­É¾³ýÅäÖÃ
     logic-delete-value: -1
     logic-not-delete-value: 0
-    #ï¿½Ô¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô½Ó¿ï¿½Êµï¿½ï¿½
+    #×Ô¶¨ÒåÌî³ä²ßÂÔ½Ó¿ÚÊµÏÖ
     #meta-object-handler: com.baomidou.springboot.xxx
-    #ï¿½Ô¶ï¿½ï¿½ï¿½SQL×¢ï¿½ï¿½ï¿½ï¿½
+    #×Ô¶¨ÒåSQL×¢ÈëÆ÷
     sql-injector: com.baomidou.mybatisplus.mapper.LogicSqlInjector
   configuration:
     map-underscore-to-camel-case: true
@@ -79,11 +79,11 @@ renren:
     open: false
   shiro:
     redis: false
-  # APPÄ£ï¿½é£¬ï¿½ï¿½Í¨ï¿½ï¿½jwtï¿½ï¿½Ö¤ï¿½Ä£ï¿½ï¿½ï¿½ï¿½ÒªÊ¹ï¿½ï¿½APPÄ£ï¿½é£¬ï¿½ï¿½ï¿½ï¿½Òªï¿½Þ¸Ä¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿ï¿½ï¿½
+  # APPÄ£¿é£¬ÊÇÍ¨¹ýjwtÈÏÖ¤µÄ£¬Èç¹ûÒªÊ¹ÓÃAPPÄ£¿é£¬ÔòÐèÒªÐÞ¸Ä¡¾¼ÓÃÜÃØÔ¿¡¿
   jwt:
-    # ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ô¿
+    # ¼ÓÃÜÃØÔ¿
     secret: f4e2e52034348f86b67cde581c0f9eb5[www.renren.io]
-    # tokenï¿½ï¿½Ð§Ê±ï¿½ï¿½ï¿½ï¿½7ï¿½ì£¬ï¿½ï¿½Î»ï¿½ï¿½
+    # tokenÓÐÐ§Ê±³¤£¬7Ìì£¬µ¥Î»Ãë
     expire: 604800
     header: token
 
