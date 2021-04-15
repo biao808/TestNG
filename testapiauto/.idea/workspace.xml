@@ -18,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testNG" />
+  </component>
   <component name="ProjectId" id="1puaKx0VuVRE6Cd9sohoUfRJGe3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,10 +39,11 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -49,33 +54,7 @@
       <recent name="D:\IDEA\testNG\testapiauto\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.case1">
-    <configuration name="HttpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.modules.HttpClient" />
-      <module name="testapiauto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.modules.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="all" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.all" />
-      <module name="testapiauto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml">
     <configuration name="TestapiautoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="testapiauto" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.testapiauto.TestapiautoApplication" />
@@ -90,16 +69,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testapiauto" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createMessage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.createMessage" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -107,17 +96,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1.case_two (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="messageDetails.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
-      <option name="METHOD_NAME" value="case_two" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.messageDetails" />
+      <option name="METHOD_NAME" value="case_1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -125,17 +114,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="case1.case_two" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="messageList.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.case1" />
-      <option name="METHOD_NAME" value="case_two" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.messageList" />
+      <option name="METHOD_NAME" value="case_1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="updateMessageStatus.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testapiauto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.updateMessageStatus" />
+      <option name="METHOD_NAME" value="case_1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.case1" />
-        <item itemvalue="TestNG.case1.case_two" />
-        <item itemvalue="Application.all" />
-        <item itemvalue="TestNG.case1.case_two (1)" />
-        <item itemvalue="Application.HttpClient" />
+        <item itemvalue="TestNG.C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml" />
+        <item itemvalue="TestNG.messageList.case_1" />
+        <item itemvalue="TestNG.messageDetails.case_1" />
+        <item itemvalue="TestNG.updateMessageStatus.case_1" />
+        <item itemvalue="TestNG.createMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +177,14 @@
       <workItem from="1617687935765" duration="6736000" />
       <workItem from="1618379831103" duration="1197000" />
       <workItem from="1618381069734" duration="175000" />
+      <workItem from="1618385013524" duration="7627000" />
+      <workItem from="1618396076013" duration="532000" />
+      <workItem from="1618397081654" duration="3503000" />
+      <workItem from="1618450487783" duration="614000" />
+      <workItem from="1618451620777" duration="3976000" />
+      <workItem from="1618455953092" duration="6524000" />
+      <workItem from="1618469119937" duration="5487000" />
+      <workItem from="1618475261437" duration="5513000" />
     </task>
     <servers />
   </component>
@@ -177,14 +192,66 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1618380901555">
+    <state x="586" y="198" key="#Inspections" timestamp="1618469705737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618380901555" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1618381092349">
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1618469705737" />
+    <state x="655" y="279" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1618387075289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618381092349" />
+    <state x="655" y="279" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618387075289" />
+    <state x="705" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618471812101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618471812101" />
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1618455370340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618455370340" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1618397353590">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618397353590" />
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1618479047618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
+    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1618479047618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
+    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1618479047618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
+    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1618479047618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1618452478654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478654" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1618452478653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478653" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1618452478653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478653" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1618452478654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478654" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1618475066909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618475066909" />
+    <state x="700" y="323" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1618386454161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="323" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618386454161" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

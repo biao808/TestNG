@@ -9,8 +9,8 @@
         <module name="testapiauto" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="testapiauto" target="11" />
+    <bytecodeTargetLevel target="8">
+      <module name="testapiauto" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

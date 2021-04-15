@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes" thread-count="3">
+    <test verbose="2" preserve-order="true" name="TestDebug">
+        <parameter name="parameter1" value="parameter1" />
+        <classes>
+            <class name="com.example.testapiauto.testCase.messageService.messageDetails" />
+            <class name="com.example.testapiauto.testCase.messageService.messageList" />
+            <class name="com.example.testapiauto.testCase.messageService.updateMessageStatus" />
+            <class name="com.example.testapiauto.testCase.messageService.createMessage" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

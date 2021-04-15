@@ -14,7 +14,8 @@ import java.io.IOException;
  *@Time: 2021/3/18  17:35
  **/
 public class HttpClient {
-    public static MediaType HJSON = MediaType.parse("application/json");
+    public static final MediaType HJSON = MediaType.parse("application/json");
+    public static final MediaType FORM = MediaType.parse("application/x-www-form-urlencoded");
 
 
     /***
@@ -41,6 +42,31 @@ public class HttpClient {
 
     }
 
+    /**
+     *
+     * @param
+     * @author 假斯文
+     * @date 2021/4/14 16:59
+     * @return  get请求 不传headers
+     */
+    public static String doGet_body(String url,Map<String,Object>body){
+        FormBody body1 = SetBody(body);
+        String result = "";
+        //声明一个okhttp3的请求客户端类
+        OkHttpClient okHttpClient = new OkHttpClient();
+        Request request = new Request.Builder()
+                .url(url)
+                .post(body1)
+                .build();
+        //声明一个Response
+        try {
+            Response response = okHttpClient.newCall(request).execute();
+            result = response.body().string();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return result;
+    }
 
     /***
     * @author 假斯文
@@ -103,6 +129,36 @@ public class HttpClient {
         return result;
     }
 
+     /**
+      *
+      * @param
+      * @author 假斯文
+      * @date 2021/4/15 14:27
+      * @return  post请求，headers是Map类型  url是String类型
+      */
+     public static String doPost_headers(String url, Map<String, Object> headers) {
+         //声明一个OKhttpclient
+         OkHttpClient okHttpClient = new OkHttpClient();
+         //声明一个Headers
+         Headers headers1 = SetHeaders(headers);
+         //声明一个Result
+         String result = "";
+         //声明一个Response
+         Response response = null;
+         //声明一个request
+         Request request = new Request.Builder()
+                 .url(url)
+                 .headers(headers1)
+                 .build();
+         try {
+             response = okHttpClient.newCall(request).execute();
+             result = response.body().string();
+         } catch (IOException e) {
+             e.printStackTrace();
+         }
+         return result;
+     }
+
 
     /***
      * @author 假斯文
@@ -138,6 +194,7 @@ public class HttpClient {
     }
 
 
+
     /*** 
      * @author 假斯文
      * @date 2021/3/19 16:13
@@ -171,6 +228,8 @@ public class HttpClient {
     }
 
 
+
+
     /***
     * @author 假斯文
     * @date 2021/3/19 17:17
@@ -196,6 +255,36 @@ public class HttpClient {
         }
         return result;
     }
+
+
+     /**
+      *
+      * @param null
+      * @author 假斯文
+      * @date 2021/4/15 11:13
+      * @return  支持POST类型为application/json的方式
+      */
+
+     public static String doPost_Json(String body, String url, Map<String,Object> headers){
+         RequestBody bodyparam = RequestBody.create(HJSON,body);
+         Headers headers1 = SetHeaders(headers);
+         Response response=null;
+         String result="";
+         OkHttpClient okHttpClient = new OkHttpClient();
+         Request request = new Request.Builder()
+                 .post(bodyparam)
+                 .url(url)
+                 .headers(headers1)
+                 .build();
+         try{
+             response = okHttpClient.newCall(request).execute();
+             result = response.body().string();
+         }catch (IOException e){
+             e.printStackTrace();
+         }
+         return result;
+     }
+
 
     private static Headers SetHeaders(Map<String, Object> headers) {
         Headers headers1 = null;
