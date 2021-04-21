@@ -114,17 +114,17 @@
 
 
         <!--allure的testng插件-->
-        <dependency>
-            <groupId>ru.yandex.qatools.allure</groupId>
-            <artifactId>allure-testng-adaptor</artifactId>
-            <version>${allure-testng-adaptor.version}</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.testng</groupId>
-                    <artifactId>testng</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>ru.yandex.qatools.allure</groupId>-->
+<!--            <artifactId>allure-testng-adaptor</artifactId>-->
+<!--            <version>${allure-testng-adaptor.version}</version>-->
+<!--            <exclusions>-->
+<!--                <exclusion>-->
+<!--                    <groupId>org.testng</groupId>-->
+<!--                    <artifactId>testng</artifactId>-->
+<!--                </exclusion>-->
+<!--            </exclusions>-->
+<!--        </dependency>-->
 
         <!-- 依赖Guice -->
         <dependency>
@@ -163,6 +163,11 @@
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-log4j12</artifactId>
             <version>${slf4j-log4j12.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.sun.xml.fastinfoset</groupId>
+            <artifactId>FastInfoset</artifactId>
+            <version>1.2.12</version>
         </dependency>
 
 

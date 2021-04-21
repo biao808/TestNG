@@ -1,0 +1,1466 @@
+2021-04-16 15:26:50  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:26:51  [ main:474 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:26:51  [ main:662 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:28:52  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:28:52  [ main:364 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:28:52  [ main:511 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:28:52  [ main:512 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:28:52  [ main:513 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:48  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:49  [ main:417 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:566 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:673 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:49  [ main:712 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:712 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:715 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:49  [ main:753 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:753 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:756 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:49  [ main:793 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:794 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:49  [ main:794 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:49  [ main:794 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:797 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:49  [ main:842 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:843 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:49  [ main:843 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:49  [ main:843 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:846 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:49  [ main:891 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:892 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:896 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:49  [ main:938 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:49  [ main:939 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:49  [ main:942 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:49  [ main:974 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:48.641+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/2/search"}
+2021-04-16 15:36:49  [ main:974 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:49  [ main:978 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:49  [ main:1011 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:48.678+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/2/search"}
+2021-04-16 15:36:49  [ main:1012 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:49  [ main:1016 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1049 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:48.720+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/2/search"}
+2021-04-16 15:36:50  [ main:1049 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:50  [ main:1049 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1103 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1103 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1106 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:50  [ main:1152 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1152 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1155 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1193 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:48.858+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/2/search"}
+2021-04-16 15:36:50  [ main:1193 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 15:36:50  [ main:1197 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1246 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1247 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1250 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1294 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1294 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1297 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1333 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1334 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1337 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1379 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1379 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1382 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1419 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1419 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:50  [ main:1419 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:50  [ main:1419 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1419 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 15:36:50  [ main:1468 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1468 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:50  [ main:1468 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:50  [ main:1469 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1472 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1504 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1504 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1504 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1567 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1567 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1570 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1603 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.270+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/3/search"}
+2021-04-16 15:36:50  [ main:1603 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:50  [ main:1606 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:50  [ main:1636 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.304+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/1/search"}
+2021-04-16 15:36:50  [ main:1637 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:50  [ main:1640 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1670 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.337+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/3/search"}
+2021-04-16 15:36:50  [ main:1671 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:50  [ main:1673 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1710 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.370+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/3/search"}
+2021-04-16 15:36:50  [ main:1710 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:50  [ main:1713 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1756 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1756 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1759 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1791 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.459+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/3/search"}
+2021-04-16 15:36:50  [ main:1791 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 15:36:50  [ main:1794 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1841 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1841 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1844 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1885 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1885 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1888 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1938 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1938 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1941 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:50  [ main:1981 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:50  [ main:1981 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:50  [ main:1984 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:51  [ main:2025 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:51  [ main:2026 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:51  [ main:2026 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:51  [ main:2026 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:51  [ main:2029 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 15:36:51  [ main:2070 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:51  [ main:2070 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 15:36:51  [ main:2070 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 15:36:51  [ main:2070 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:51  [ main:2073 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2104 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.771+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/1/search"}
+2021-04-16 15:36:51  [ main:2104 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:51  [ main:2107 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2139 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.806+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/1/search"}
+2021-04-16 15:36:51  [ main:2139 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:36:51  [ main:2142 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2186 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:51  [ main:2186 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:51  [ main:2189 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2220 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:36:49.885+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/1/search"}
+2021-04-16 15:36:51  [ main:2221 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 15:36:51  [ main:2223 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2272 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:51  [ main:2272 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:36:51  [ main:2275 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 15:36:51  [ main:2324 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 15:36:51  [ main:2324 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:39:37  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 15:39:37  [ main:384 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:39:36.535+0000","status":405,"error":"Method Not Allowed","message":"Request method 'GET' not supported","path":"/openApi/v1/message/update/145"}
+2021-04-16 15:42:04  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 15:42:04  [ main:412 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:42:03.126+0000","status":405,"error":"Method Not Allowed","message":"Request method 'GET' not supported","path":"/openApi/v1/message/update/145"}
+2021-04-16 15:43:23  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 15:43:24  [ main:418 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 15:43:24  [ main:558 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 15:44:54  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 15:44:55  [ main:397 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:44:53.836+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 15:46:39  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 15:46:40  [ main:373 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:46:38.937+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 15:46:40  [ main:529 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:47:19  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 15:47:19  [ main:392 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T07:47:18.636+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 15:47:20  [ main:530 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 15:48:01  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/999
+2021-04-16 15:48:02  [ main:429 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:01:53  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 16:01:53  [ main:422 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:01:53  [ main:569 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:01:54  [ main:690 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 16:01:54  [ main:724 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:01:52.770+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 16:01:54  [ main:724 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:01:54  [ main:728 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/999
+2021-04-16 16:01:54  [ main:768 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:01:54  [ main:768 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+断言通过
+实际结果：20002，预期结果：20002
+2021-04-16 16:08:44  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/1000
+2021-04-16 16:08:44  [ main:360 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:08:43.455+0000","status":405,"error":"Method Not Allowed","message":"Request method 'POST' not supported","path":"/openApi/v1/message/orgRoleRef/2/1000"}
+2021-04-16 16:10:04  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/1000
+2021-04-16 16:10:04  [ main:389 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:10:04  [ main:524 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:11:49  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/1000
+2021-04-16 16:11:50  [ main:389 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:11:50  [ main:540 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:12:45  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/jw/1000
+2021-04-16 16:12:46  [ main:464 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:12:44.858+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jw\"","path":"/openApi/v1/message/orgRoleRef/jw/1000"}
+2021-04-16 16:13:33  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/jw/1000
+2021-04-16 16:13:34  [ main:393 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:13:32.853+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jw\"","path":"/openApi/v1/message/orgRoleRef/jw/1000"}
+2021-04-16 16:13:34  [ main:562 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:14:06  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/9999/1000
+2021-04-16 16:14:07  [ main:372 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:14:53  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/100000
+2021-04-16 16:14:53  [ main:381 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:16:31  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/jsw
+2021-04-16 16:16:31  [ main:382 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:16:30.137+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/orgRoleRef/2/jsw"}
+2021-04-16 16:16:53  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/jsw
+2021-04-16 16:16:53  [ main:430 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:16:52.460+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/orgRoleRef/2/jsw"}
+2021-04-16 16:16:53  [ main:617 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:11  [ pool-1-thread-2:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:11  [ pool-1-thread-3:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 16:18:11  [ pool-1-thread-1:44 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-16 16:18:11  [ pool-1-thread-3:447 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:11  [ pool-1-thread-1:447 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-16 16:18:11  [ pool-1-thread-2:447 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-1:578 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-2:578 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-3:578 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-1:692 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*
+2021-04-16 16:18:11  [ pool-1-thread-3:692 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 16:18:11  [ pool-1-thread-2:692 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:11  [ pool-1-thread-3:725 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.489+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 16:18:11  [ pool-1-thread-3:726 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:11  [ pool-1-thread-1:727 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.489+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:18:11  [ pool-1-thread-1:728 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:11  [ pool-1-thread-2:728 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-2:729 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-3:732 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/999
+2021-04-16 16:18:11  [ pool-1-thread-1:733 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9099
+2021-04-16 16:18:11  [ pool-1-thread-2:733 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:11  [ pool-1-thread-3:765 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:18:11  [ pool-1-thread-3:765 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+断言通过
+实际结果：20002，预期结果：20002
+2021-04-16 16:18:11  [ pool-1-thread-3:769 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:11  [ pool-1-thread-3:769 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:11  [ pool-1-thread-2:782 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-1:782 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:18:11  [ pool-1-thread-1:782 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:11  [ pool-1-thread-2:782 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-1:787 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=
+2021-04-16 16:18:11  [ pool-1-thread-2:787 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:11  [ pool-1-thread-1:831 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:18:11  [ pool-1-thread-1:831 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:11  [ pool-1-thread-1:835 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=null1
+2021-04-16 16:18:11  [ pool-1-thread-2:837 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-2:837 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:11  [ pool-1-thread-2:837 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:11  [ pool-1-thread-2:837 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-2:841 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:11  [ pool-1-thread-3:848 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:11  [ pool-1-thread-3:848 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-3:852 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:11  [ pool-1-thread-3:852 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:11  [ pool-1-thread-1:860 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.624+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"null1\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:18:11  [ pool-1-thread-1:861 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:11  [ pool-1-thread-1:865 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/1000
+2021-04-16 16:18:11  [ pool-1-thread-2:883 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-2:883 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:11  [ pool-1-thread-2:883 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:11  [ pool-1-thread-2:883 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-2:886 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:11  [ pool-1-thread-3:900 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:11  [ pool-1-thread-3:900 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:11  [ pool-1-thread-3:903 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:11  [ pool-1-thread-3:903 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:11  [ pool-1-thread-1:915 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:18:11  [ pool-1-thread-1:916 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:18:11  [ pool-1-thread-1:919 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/jw/1000
+2021-04-16 16:18:11  [ pool-1-thread-2:930 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:11  [ pool-1-thread-2:931 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:11  [ pool-1-thread-2:934 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:11  [ pool-1-thread-3:944 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:11  [ pool-1-thread-3:944 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:11  [ pool-1-thread-3:948 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:11  [ pool-1-thread-3:948 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"999119\"}"
+}
+2021-04-16 16:18:11  [ pool-1-thread-1:951 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.712+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jw\"","path":"/openApi/v1/message/orgRoleRef/jw/1000"}
+2021-04-16 16:18:11  [ pool-1-thread-1:952 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:11  [ pool-1-thread-1:955 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/9999/1000
+2021-04-16 16:18:12  [ pool-1-thread-2:977 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:977 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:980 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:991 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:992 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-1:992 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:18:12  [ pool-1-thread-1:992 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:18:12  [ pool-1-thread-3:996 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-1:996 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/100000
+2021-04-16 16:18:12  [ pool-1-thread-3:996 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":""
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1011 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.774+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1011 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1015 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1036 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1036 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1040 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1040 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1047 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.811+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1047 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-1:1047 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:18:12  [ pool-1-thread-1:1048 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:18:12  [ pool-1-thread-2:1050 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-1:1050 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/jsw
+2021-04-16 16:18:12  [ pool-1-thread-1:1081 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.845+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/orgRoleRef/2/jsw"}
+2021-04-16 16:18:12  [ pool-1-thread-1:1081 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1085 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.846+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1085 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-3:1086 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1087 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1088 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1090 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1090 ] - [ INFO ]  请求参数：{
+  "sendId": "",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1128 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1128 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1131 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1132 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1132 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1135 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1135 ] - [ INFO ]  请求参数：{
+  "sendId": "az",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-3:1176 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-2:1176 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-3:1176 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1177 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1180 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1180 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1180 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1206 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:10.970+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1207 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:18:12  [ pool-1-thread-2:1210 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1229 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1229 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1232 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1232 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1244 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1244 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1247 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1276 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1276 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1280 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1281 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1290 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1291 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1294 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1314 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1315 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1318 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1318 ] - [ INFO ]  请求参数：{
+  "sendId": "",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1326 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1326 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1329 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1357 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1357 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1360 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1360 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1369 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1369 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1372 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1387 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1387 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1391 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1391 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[61292640,2343124],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1415 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1415 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:12  [ pool-1-thread-2:1415 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:12  [ pool-1-thread-2:1415 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1418 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1432 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1432 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1435 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1435 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":,
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1462 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1462 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:12  [ pool-1-thread-2:1462 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:12  [ pool-1-thread-2:1462 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1465 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1473 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.234+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 5, column: 18]","path":"/openApi/message/v1/2/send"}
+2021-04-16 16:18:12  [ pool-1-thread-3:1473 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-3:1476 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1476 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1510 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1510 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1513 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1527 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1527 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1531 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1531 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1551 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1552 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1555 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1578 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1578 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1582 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1582 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"999119\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1587 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.350+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1587 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1591 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:12  [ pool-1-thread-2:1627 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.388+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1628 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1631 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1638 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1638 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1653 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1653 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":""
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1655 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.418+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1655 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1675 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1701 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1701 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1705 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1705 ] - [ INFO ]  请求参数：{
+  "sendId": "az",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1707 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.470+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1707 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:12  [ pool-1-thread-2:1711 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-2:1758 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1758 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1762 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1763 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1763 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1765 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1765 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1784 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.549+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:18:12  [ pool-1-thread-2:1784 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:18:12  [ pool-1-thread-2:1787 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1808 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1808 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1810 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1810 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1826 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1827 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1830 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1854 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1854 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-3:1857 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1857 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1870 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1870 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1873 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1889 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1890 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1892 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1892 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:12  [ pool-1-thread-2:1911 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:12  [ pool-1-thread-2:1912 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:12  [ pool-1-thread-2:1915 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:12  [ pool-1-thread-3:1921 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:18:12  [ pool-1-thread-3:1921 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:18:12  [ pool-1-thread-3:1923 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:12  [ pool-1-thread-3:1924 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[61292640,2343124],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:13  [ pool-1-thread-2:1960 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:1960 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-2:1963 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:13  [ pool-1-thread-3:1970 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:18:13  [ pool-1-thread-3:1970 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-3:1973 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:18:13  [ pool-1-thread-3:1973 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":,
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:18:13  [ pool-1-thread-2:1997 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:1997 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:13  [ pool-1-thread-2:1997 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:13  [ pool-1-thread-2:1997 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-2:1999 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:18:13  [ pool-1-thread-3:2009 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.771+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 5, column: 18]","path":"/openApi/message/v1/1/send"}
+2021-04-16 16:18:13  [ pool-1-thread-3:2010 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:13  [ pool-1-thread-2:2037 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:2037 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:18:13  [ pool-1-thread-2:2037 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:18:13  [ pool-1-thread-2:2037 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-2:2040 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2076 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.837+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:18:13  [ pool-1-thread-2:2076 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:13  [ pool-1-thread-2:2079 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2119 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.879+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:18:13  [ pool-1-thread-2:2119 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:18:13  [ pool-1-thread-2:2122 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2165 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:2165 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-2:2168 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2203 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:18:11.965+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:18:13  [ pool-1-thread-2:2203 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:18:13  [ pool-1-thread-2:2206 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2247 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:2247 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:18:13  [ pool-1-thread-2:2250 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:18:13  [ pool-1-thread-2:2292 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:18:13  [ pool-1-thread-2:2293 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:32:38  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-16 16:32:39  [ main:490 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-16 16:32:39  [ main:658 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:32:39  [ main:790 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*
+2021-04-16 16:32:39  [ main:826 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:32:38.200+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:32:39  [ main:826 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:32:39  [ main:831 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9099
+2021-04-16 16:32:39  [ main:873 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:32:39  [ main:873 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:32:39  [ main:878 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=
+2021-04-16 16:32:39  [ main:919 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:32:39  [ main:919 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:32:39  [ main:938 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=null1
+2021-04-16 16:32:39  [ main:964 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:32:38.341+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"null1\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:32:39  [ main:964 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:44  [ pool-1-thread-3:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/145
+2021-04-16 16:45:44  [ pool-1-thread-1:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-16 16:45:44  [ pool-1-thread-2:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:44  [ pool-1-thread-3:415 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:44  [ pool-1-thread-1:415 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-16 16:45:44  [ pool-1-thread-2:415 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:44  [ pool-1-thread-3:570 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:44  [ pool-1-thread-2:570 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:44  [ pool-1-thread-1:570 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-1:695 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*
+2021-04-16 16:45:45  [ pool-1-thread-2:695 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:45  [ pool-1-thread-3:696 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/jsw
+2021-04-16 16:45:45  [ pool-1-thread-3:734 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:43.825+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/update/jsw"}
+2021-04-16 16:45:45  [ pool-1-thread-3:734 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-1:736 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:43.827+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:45:45  [ pool-1-thread-1:737 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-2:737 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:737 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-3:741 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/update/999
+2021-04-16 16:45:45  [ pool-1-thread-1:746 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9099
+2021-04-16 16:45:45  [ pool-1-thread-2:746 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:45  [ pool-1-thread-3:777 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:45:45  [ pool-1-thread-3:777 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+断言通过
+实际结果：20002，预期结果：20002
+2021-04-16 16:45:45  [ pool-1-thread-3:784 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:45  [ pool-1-thread-3:784 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:45  [ pool-1-thread-2:787 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:787 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-1:790 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:45:45  [ pool-1-thread-1:790 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:45  [ pool-1-thread-2:796 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:45  [ pool-1-thread-1:797 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=
+2021-04-16 16:45:45  [ pool-1-thread-2:830 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:830 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:45  [ pool-1-thread-2:830 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:45  [ pool-1-thread-2:830 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-3:831 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:45  [ pool-1-thread-3:831 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:837 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:45  [ pool-1-thread-3:837 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:45  [ pool-1-thread-3:837 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:45  [ pool-1-thread-1:842 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-16 16:45:45  [ pool-1-thread-1:843 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:45  [ pool-1-thread-1:848 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=null1
+2021-04-16 16:45:45  [ pool-1-thread-2:878 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-1:878 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:43.973+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"null1\"","path":"/openApi/v1/message/id"}
+2021-04-16 16:45:45  [ pool-1-thread-2:878 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:45  [ pool-1-thread-1:878 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-2:879 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:45  [ pool-1-thread-2:879 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:885 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:885 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/1000
+2021-04-16 16:45:45  [ pool-1-thread-3:898 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:45  [ pool-1-thread-3:898 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:45  [ pool-1-thread-3:903 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:45  [ pool-1-thread-3:903 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:45  [ pool-1-thread-2:944 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:944 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:950 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:961 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:45:45  [ pool-1-thread-1:961 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:45:45  [ pool-1-thread-1:966 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/jw/1000
+2021-04-16 16:45:45  [ pool-1-thread-3:970 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:45  [ pool-1-thread-3:970 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:45  [ pool-1-thread-3:976 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:45  [ pool-1-thread-3:976 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"999119\"}"
+}
+2021-04-16 16:45:45  [ pool-1-thread-2:1025 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1026 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1031 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:1035 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.107+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jw\"","path":"/openApi/v1/message/orgRoleRef/jw/1000"}
+2021-04-16 16:45:45  [ pool-1-thread-1:1036 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-3:1042 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:45  [ pool-1-thread-3:1042 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-1:1043 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/9999/1000
+2021-04-16 16:45:45  [ pool-1-thread-3:1048 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:45  [ pool-1-thread-3:1048 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":""
+}
+2021-04-16 16:45:45  [ pool-1-thread-2:1091 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.168+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:45:45  [ pool-1-thread-2:1091 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-2:1097 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:1144 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:45:45  [ pool-1-thread-1:1144 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:45:45  [ pool-1-thread-1:1149 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/100000
+2021-04-16 16:45:45  [ pool-1-thread-2:1154 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.233+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:45:45  [ pool-1-thread-2:1154 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-2:1159 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:1220 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":[]}
+2021-04-16 16:45:45  [ pool-1-thread-1:1220 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：success，预期结果：success
+断言通过
+实际结果：20000，预期结果：20000
+2021-04-16 16:45:45  [ pool-1-thread-2:1224 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.303+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:45:45  [ pool-1-thread-2:1224 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-1:1226 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/orgRoleRef/2/jsw
+2021-04-16 16:45:45  [ pool-1-thread-2:1229 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-1:1280 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.365+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"jsw\"","path":"/openApi/v1/message/orgRoleRef/2/jsw"}
+2021-04-16 16:45:45  [ pool-1-thread-1:1280 ] - [ INFO ]  断言结果：
+断言通过
+实际结果：Bad Request，预期结果：Bad Request
+断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:45  [ pool-1-thread-2:1290 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1291 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1295 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1338 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1338 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1342 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1378 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:44.470+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/2/search"}
+2021-04-16 16:45:45  [ pool-1-thread-2:1378 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:45:45  [ pool-1-thread-2:1382 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1440 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1440 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1445 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1517 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1517 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1522 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1591 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1591 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:45  [ pool-1-thread-2:1596 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:45  [ pool-1-thread-2:1647 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:45  [ pool-1-thread-2:1647 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-2:1652 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:46  [ pool-1-thread-2:1704 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:46  [ pool-1-thread-2:1704 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:46  [ pool-1-thread-2:1704 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:46  [ pool-1-thread-2:1704 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-2:1708 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/2/search
+2021-04-16 16:45:46  [ pool-1-thread-3:2285 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2285 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:46  [ pool-1-thread-3:2290 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2290 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:46  [ pool-1-thread-3:2360 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2360 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-3:2365 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2365 ] - [ INFO ]  请求参数：{
+  "sendId": "",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:46  [ pool-1-thread-3:2449 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2449 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-3:2453 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2454 ] - [ INFO ]  请求参数：{
+  "sendId": "az",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:46  [ pool-1-thread-3:2524 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2525 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-3:2529 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2529 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:46  [ pool-1-thread-3:2572 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2573 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-3:2577 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2578 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:46  [ pool-1-thread-3:2628 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:46  [ pool-1-thread-3:2628 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:46  [ pool-1-thread-3:2632 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:46  [ pool-1-thread-3:2632 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-3:2670 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:2670 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:2675 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2675 ] - [ INFO ]  请求参数：{
+  "sendId": "",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-3:2720 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:2720 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:2725 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2725 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-3:2769 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:2776 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:2784 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2784 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[61292640,2343124],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-3:2851 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:2851 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:2855 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2856 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":,
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:2907 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:2907 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:47  [ pool-1-thread-2:2907 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:47  [ pool-1-thread-2:2907 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:2911 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:2913 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:45.998+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 5, column: 18]","path":"/openApi/message/v1/2/send"}
+2021-04-16 16:45:47  [ pool-1-thread-3:2913 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-3:2917 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2917 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:2952 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:2952 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:2957 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:2960 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:2960 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:2964 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:2965 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:2998 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":100,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:2998 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3002 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3005 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3005 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:3010 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3010 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"999119\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3033 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.123+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3033 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3037 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3055 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3055 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:3060 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/2/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3060 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"5877",
+   "templateParam":""
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3074 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.160+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 11]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3074 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3078 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3108 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3108 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-2:3110 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.200+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3110 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-3:3113 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3113 ] - [ INFO ]  请求参数：{
+  "sendId": "az",
+  "sendName": "zhangsan",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3115 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-2:3142 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.234+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3142 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3146 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3161 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3161 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:3165 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3165 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3193 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3193 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3197 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3205 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3205 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3220 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.314+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/3/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3220 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:45:47  [ pool-1-thread-2:3249 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3249 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3249 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3283 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3283 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3287 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3292 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3292 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:3298 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3298 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-3:3322 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3323 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:3328 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3328 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "64655454",
+  "receiverIds":[6129640,234324],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3329 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3329 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3334 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3364 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":0,"subMsg":"dtuser.business.error","data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3364 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-16 16:45:47  [ pool-1-thread-3:3368 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3368 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":[61292640,2343124],
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3372 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3372 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3376 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3411 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":null}
+2021-04-16 16:45:47  [ pool-1-thread-3:3411 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-3:3415 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/message/v1/1/send
+2021-04-16 16:45:47  [ pool-1-thread-3:3415 ] - [ INFO ]  请求参数：{
+  "sendId": "57594136",
+  "sendName": "533254",
+  "roleId": "",
+  "receiverIds":,
+  "templateId":"32",
+   "templateParam":"{\"code\":\"9999\"}"
+}
+2021-04-16 16:45:47  [ pool-1-thread-2:3415 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3415 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3419 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-3:3452 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.542+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 5, column: 18]","path":"/openApi/message/v1/1/send"}
+2021-04-16 16:45:47  [ pool-1-thread-3:3452 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3456 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3456 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:47  [ pool-1-thread-2:3456 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:47  [ pool-1-thread-2:3456 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3460 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/3/search
+2021-04-16 16:45:47  [ pool-1-thread-2:3491 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:47  [ pool-1-thread-2:3492 ] - [ INFO ]  实际结果：code,20000
+2021-04-16 16:45:47  [ pool-1-thread-2:3492 ] - [ INFO ]  实际结果：msg,success
+2021-04-16 16:45:47  [ pool-1-thread-2:3492 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:47  [ pool-1-thread-2:3496 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:47  [ pool-1-thread-2:3524 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.615+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 25]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3524 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3528 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:47  [ pool-1-thread-2:3571 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.654+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unrecognized token 'jj': was expecting ('true', 'false' or 'null'); nested exception is com.fasterxml.jackson.core.JsonParseException: Unrecognized token 'jj': was expecting ('true', 'false' or 'null')\n at [Source: (PushbackInputStream); line: 1, column: 27]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:45:47  [ pool-1-thread-2:3572 ] - [ INFO ]  断言结果：断言通过
+实际结果：Bad Request，预期结果：Bad Request,断言通过
+实际结果：400，预期结果：400
+2021-04-16 16:45:47  [ pool-1-thread-2:3576 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:48  [ pool-1-thread-2:3649 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:48  [ pool-1-thread-2:3649 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:48  [ pool-1-thread-2:3653 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:48  [ pool-1-thread-2:3725 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-16T08:45:46.798+0000","status":400,"error":"Bad Request","message":"JSON parse error: Unexpected character (',' (code 44)): expected a value; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (',' (code 44)): expected a value\n at [Source: (PushbackInputStream); line: 1, column: 35]","path":"/openApi/v1/message/1/search"}
+2021-04-16 16:45:48  [ pool-1-thread-2:3726 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400,断言通过
+实际结果：Bad Request，预期结果：Bad Request
+2021-04-16 16:45:48  [ pool-1-thread-2:3730 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:48  [ pool-1-thread-2:3788 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:48  [ pool-1-thread-2:3788 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success
+2021-04-16 16:45:48  [ pool-1-thread-2:3793 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-16 16:45:48  [ pool-1-thread-2:3833 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-16 16:45:48  [ pool-1-thread-2:3833 ] - [ INFO ]  断言结果：断言通过
+实际结果：20000，预期结果：20000,断言通过
+实际结果：success，预期结果：success

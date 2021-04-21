@@ -3,10 +3,9 @@ package com.example.testapiauto.modules.testCase.utils;
 import com.alibaba.fastjson.JSONObject;
 import okhttp3.*;
 
-import javax.xml.transform.Result;
+import java.io.IOException;
 import java.util.Iterator;
 import java.util.Map;
-import java.io.IOException;
 
 /**
  *@program:testapiauto
@@ -259,7 +258,7 @@ public class HttpClient {
 
      /**
       *
-      * @param null
+      * @param
       * @author 假斯文
       * @date 2021/4/15 11:13
       * @return  支持POST类型为application/json的方式
@@ -284,6 +283,7 @@ public class HttpClient {
          }
          return result;
      }
+
 
 
     private static Headers SetHeaders(Map<String, Object> headers) {

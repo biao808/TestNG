@@ -1,27 +1,21 @@
 package com.example.testapiauto.testCase;
 
 
+import com.example.testapiauto.app.serviceImp.caseServiceImp;
 import com.example.testapiauto.modules.testCase.common.Assertion.AssertionImp.ResponseAssertionImp;
 import com.example.testapiauto.modules.testCase.utils.AssertUtil;
-import com.example.testapiauto.modules.testCase.utils.Cookie;
-import com.example.testapiauto.modules.testCase.common.Assertion.AssertionImp.ResponseAssertionImp;
 import com.example.testapiauto.modules.testCase.utils.HttpClient;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
-import io.qameta.allure.Stories;
 import io.qameta.allure.Story;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
-import org.junit.jupiter.api.DisplayName;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Random;
-import com.example.testapiauto.app.dao.caseDao;
-import com.example.testapiauto.app.serviceImp.caseServiceImp;
 
 /*
  *@program:testapiauto
@@ -39,11 +33,11 @@ public class case1 {
     ResponseAssertionImp responseAssertionImp = new ResponseAssertionImp();
     @Resource
     caseServiceImp caseServiceImp;
-    /*** 
+    /***
     * @author 假斯文
     * @date 2021/3/26 14:36
-    * @param 
-    * @return 
+    * @param
+    * @return
     ***/
 
 
@@ -83,5 +77,5 @@ public class case1 {
         logger.info(caseServiceImp);
 
     }
-}    
+}
 

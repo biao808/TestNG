@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="331a0236-ef58-47f8-87b7-3306d9f8b95b" name="Default Changelist" comment="" />
+    <list default="true" id="331a0236-ef58-47f8-87b7-3306d9f8b95b" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/testapiauto/app/serviceImp" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -40,21 +61,22 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.example.testapiauto" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yuxiang\Desktop\demo\test\test\testapiauto\src\main\java\com\example\testapiauto\app\serviceImp" />
       <recent name="D:\IDEA\testNG\testapiauto\src\test\resources" />
       <recent name="D:\IDEA\testNG\testapiauto\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.pswordLogin.case_4">
     <configuration name="TestapiautoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="testapiauto" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.testapiauto.TestapiautoApplication" />
@@ -69,44 +91,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testapiauto" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="createMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="pswordLogin.case_4" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.createMessage" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="messageDetails.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testapiauto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.messageDetails" />
-      <option name="METHOD_NAME" value="case_1" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.login.pswordLogin" />
+      <option name="METHOD_NAME" value="case_4" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -114,17 +109,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="messageList.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="pswordLogin.case_5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.messageList" />
-      <option name="METHOD_NAME" value="case_1" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.login.pswordLogin" />
+      <option name="METHOD_NAME" value="case_5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,17 +127,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="updateMessageStatus.case_1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="pswordLogin.case_6" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="testapiauto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.testapiauto.testCase.messageService.*" />
+          <option name="PATTERN" value="com.example.testapiauto.testCase.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.messageService" />
-      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.messageService.updateMessageStatus" />
-      <option name="METHOD_NAME" value="case_1" />
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.login.pswordLogin" />
+      <option name="METHOD_NAME" value="case_6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pswordLogin.case_7" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testapiauto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testapiauto.testCase.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.login.pswordLogin" />
+      <option name="METHOD_NAME" value="case_7" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pswordLogin.case_8" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testapiauto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.testapiauto.testCase.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.testapiauto.testCase.login" />
+      <option name="MAIN_CLASS_NAME" value="com.example.testapiauto.testCase.login.pswordLogin" />
+      <option name="METHOD_NAME" value="case_8" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -152,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/yuxiang/Desktop/demo/test/test/testapiauto/src/test/resources/testng.xml" />
-        <item itemvalue="TestNG.messageList.case_1" />
-        <item itemvalue="TestNG.messageDetails.case_1" />
-        <item itemvalue="TestNG.updateMessageStatus.case_1" />
-        <item itemvalue="TestNG.createMessage" />
+        <item itemvalue="TestNG.pswordLogin.case_4" />
+        <item itemvalue="TestNG.pswordLogin.case_8" />
+        <item itemvalue="TestNG.pswordLogin.case_7" />
+        <item itemvalue="TestNG.pswordLogin.case_6" />
+        <item itemvalue="TestNG.pswordLogin.case_5" />
       </list>
     </recent_temporary>
   </component>
@@ -185,17 +216,42 @@
       <workItem from="1618455953092" duration="6524000" />
       <workItem from="1618469119937" duration="5487000" />
       <workItem from="1618475261437" duration="5513000" />
+      <workItem from="1618536065875" duration="71280000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1618982196477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618982196477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testcase1" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="198" key="#Inspections" timestamp="1618469705737">
+    <state x="586" y="198" key="#Inspections" timestamp="1618883696029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1618469705737" />
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1618883696029" />
     <state x="655" y="279" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1618387075289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -204,6 +260,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="705" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618471812101" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1618880596138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1618880596138" />
+    <state x="472" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618902398102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618902398102" />
     <state x="690" y="266" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1618455370340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,58 +276,70 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618397353590" />
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1618479047618">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1618983072356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
-    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1618479047618">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072356" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1618983072355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
-    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1618479047618">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072355" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1618983072355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
-    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1618479047618">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072355" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1618983072355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="364" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618479047618" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1618452478654">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072355" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1618983072356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478654" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1618452478653">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072356" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1618983072356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478653" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1618452478653">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072356" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1618983072356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478653" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1618452478654">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072356" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1618983072356">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618452478654" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1618475066909">
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618983072356" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1618968862662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618475066909" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618968862662" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1618564455354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618564455354" />
     <state x="700" y="323" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1618386454161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="323" width="618" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618386454161" />
+    <state x="661" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1618970762599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="275" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618970762599" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618556095497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618556095497" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/example/testapiauto/testCase/case1.java</url>
-          <line>67</line>
+          <line>61</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/example/testapiauto/testCase/case1.java</url>
-          <line>84</line>
+          <line>78</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>

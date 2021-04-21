@@ -1,0 +1,90 @@
+2021-04-19 10:00:03  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 10:00:04  [ main:442 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 10:00:04  [ main:598 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 10:00:57  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=759296872572869321170704309261
+2021-04-19 10:00:58  [ main:496 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T02:00:55.272+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"759296872572869321170704309261\"","path":"/openApi/v1/message/id"}
+2021-04-19 10:02:03  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=8376957058988970011242508674677
+2021-04-19 10:02:04  [ main:408 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T02:02:01.555+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"8376957058988970011242508674677\"","path":"/openApi/v1/message/id"}
+2021-04-19 10:31:18  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=000000000000000000000210616576
+2021-04-19 10:31:18  [ main:436 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 10:31:41  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=0000000000000000000000313423532
+2021-04-19 10:31:42  [ main:428 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 11:25:57  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=0000000000000000000000945514016
+2021-04-19 11:25:57  [ main:412 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 12:05:20  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=0000000000000000000000136710222
+2021-04-19 12:05:20  [ main:944 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 12:05:50  [ main:1 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:05:51  [ main:663 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:05:51  [ main:813 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 12:07:44  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:07:45  [ main:446 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:07:45  [ main:588 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 12:07:49  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:07:50  [ main:435 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:07:50  [ main:621 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 12:08:33  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:08:33  [ main:378 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:08:33  [ main:526 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 12:10:30  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:10:31  [ main:423 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:10:31  [ main:596 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 12:12:22  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 12:12:23  [ main:413 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 12:12:23  [ main:575 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 13:18:15  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*
+2021-04-19 13:18:15  [ main:460 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T05:18:13.340+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*\"","path":"/openApi/v1/message/id"}
+2021-04-19 13:18:16  [ main:657 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-19 13:55:51  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*
+2021-04-19 13:55:51  [ main:413 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T05:55:49.055+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*\"","path":"/openApi/v1/message/id"}
+2021-04-19 13:55:51  [ main:562 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-19 13:56:36  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 13:56:36  [ main:392 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 13:56:36  [ main:561 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 14:34:02  [ main:0 ] - [ INFO ]  请求url：http://10.80.73.31:8005/openApi/v1/message/id?id=145
+2021-04-19 14:34:03  [ main:413 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":12103,"subMsg":"接口需要签名才可访问"}
+2021-04-19 14:34:37  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 14:34:37  [ main:403 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 14:34:37  [ main:566 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 14:49:25  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=0000000000000000000000627947074
+2021-04-19 14:49:25  [ main:436 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 16:34:06  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/1/search
+2021-04-19 16:34:06  [ main:394 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"total":0,"current":1,"hitCount":false,"pages":0,"size":10,"optimizeCountSql":true,"records":[],"maxLimit":null,"searchCount":true,"orders":[],"countId":null}}
+2021-04-19 16:34:06  [ main:555 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 16:35:19  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*null
+2021-04-19 16:35:19  [ main:353 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T08:35:19.839+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*null\"","path":"/openApi/v1/message/id"}
+2021-04-19 16:35:19  [ main:493 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-19 16:36:05  [ main:0 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=145
+2021-04-19 16:36:06  [ main:399 ] - [ INFO ]  响应结果：{"code":20000,"msg":"success","subCode":0,"subMsg":null,"data":{"readStatus":1,"gmtModify":"2021-04-13 13:59:19","receiver":"234324","roleId":"","proposer":"zhangsan","proposerId":"57594136","id":145,"gmtCreate":"2021-04-13 13:34:53","title":"南宁测试站内信","type":1,"content":"南宁测试站内信","status":1}}
+2021-04-19 16:36:06  [ main:548 ] - [ INFO ]  断言结果：断言通过
+实际结果：success，预期结果：success
+2021-04-19 16:36:06  [ main:679 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9*success
+2021-04-19 16:36:06  [ main:703 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T08:36:06.644+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"9*success\"","path":"/openApi/v1/message/id"}
+2021-04-19 16:36:06  [ main:703 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-19 16:36:06  [ main:709 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=9099
+2021-04-19 16:36:06  [ main:754 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 16:36:06  [ main:754 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-19 16:36:06  [ main:760 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=
+2021-04-19 16:36:06  [ main:804 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
+2021-04-19 16:36:06  [ main:804 ] - [ INFO ]  断言结果：断言通过
+实际结果：business exception，预期结果：business exception
+2021-04-19 16:36:06  [ main:809 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=null1
+2021-04-19 16:36:06  [ main:840 ] - [ INFO ]  响应结果：{"timestamp":"2021-04-19T08:36:06.780+0000","status":400,"error":"Bad Request","message":"Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; nested exception is java.lang.NumberFormatException: For input string: \"null1\"","path":"/openApi/v1/message/id"}
+2021-04-19 16:36:06  [ main:840 ] - [ INFO ]  断言结果：断言通过
+实际结果：400，预期结果：400
+2021-04-19 16:36:06  [ main:845 ] - [ INFO ]  请求url：http://101.132.96.141:31367/openApi/v1/message/id?id=0000000000000000000001435782913
+2021-04-19 16:36:06  [ main:893 ] - [ INFO ]  响应结果：{"code":20002,"msg":"business exception","subCode":11001,"subMsg":"系统异常"}
